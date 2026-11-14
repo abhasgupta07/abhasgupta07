@@ -1,105 +1,151 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7b2ff7&height=220&section=header&text=Abhas%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=240&section=header&text=ABHAS%20GUPTA&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%7B%20Full-Stack%20Developer%20%7C%20Builder%20of%20the%20Future%20%7D&descAlignY=62&descSize=18" alt="header" />
 </p>
 
-<!-- Animated typing line -->
 <p align="center">
   <a href="https://github.com/abhasgupta07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhas+Gupta;A+passionate+Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+build+things+for+the+web+%F0%9F%9A%80;Currently+learning+C%2B%2B%2C+Java+%26+JavaScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=760&height=50&lines=%3E+initializing+abhas.exe+...;%3E+Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;%3E+building+the+web+of+tomorrow+%F0%9F%9A%80;%3E+learning+C%2B%2B+%7C+Java+%7C+JavaScript;%3E+status%3A+online+%E2%9C%85" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhasgupta07&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/abhasgupta07?tab=followers"><img src="https://img.shields.io/github/followers/abhasgupta07?label=Followers&style=for-the-badge&logo=github&color=7b2ff7" alt="Followers" /></a>
-  <a href="https://github.com/abhasgupta07?tab=repositories"><img src="https://img.shields.io/badge/Repos-All%20Projects-0e75b6?style=for-the-badge&logo=github" alt="Repos" /></a>
+  <img src="https://komarev.com/ghpvc/?username=abhasgupta07&label=VISITORS&color=00f5ff&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/abhasgupta07?tab=followers"><img src="https://img.shields.io/github/followers/abhasgupta07?label=FOLLOWERS&style=for-the-badge&logo=github&color=7b2ff7&labelColor=0d1117" alt="Followers" /></a>
+  <a href="https://github.com/abhasgupta07?tab=repositories"><img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-ff00c8?style=for-the-badge&labelColor=0d1117" alt="Status" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=3" width="100%" alt="divider" />
 
-## 👨‍💻 About Me
+## 🖥️ `$ whoami`
 
-- 🌱 Currently learning **C++**, **Java** and **JavaScript**
-- 🔭 Building projects in **full-stack web development**
-- 💬 Ask me about **full-stack web dev**
-- 🧩 Practising problem solving on **LeetCode**
-- 📫 Reach me at **[abhasgupta737@gmail.com](mailto:abhasgupta737@gmail.com)**
-- 📂 All my projects live at **[github.com/abhasgupta07](https://github.com/abhasgupta07)**
+```text
+ ┌──────────────────────────────────────────────────────────┐
+ │  👤 USER        : Abhas Gupta  (@abhasgupta07)           │
+ │  🌍 LOCATION    : India 🇮🇳                              │
+ │  💼 ROLE        : Full-Stack Developer                   │
+ │  📚 LEARNING    : C++  •  Java  •  JavaScript            │
+ │  🧩 PRACTICE    : LeetCode / Problem Solving             │
+ │  💬 ASK ME ABOUT: Full-Stack Web Development             │
+ │  📫 CONTACT     : abhasgupta737@gmail.com                │
+ │  ⚡ STATUS      : Compiling ideas into products...       │
+ └──────────────────────────────────────────────────────────┘
+```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=3" width="100%" alt="divider" />
 
-## 🛠️ Languages & Tools
+## ⚙️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,git,github,vscode,nodejs,react,mongodb,figma,photoshop&perline=13" alt="My skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,nodejs,react,mongodb,git,github,vscode,figma,photoshop&perline=13&theme=dark" alt="My skills" />
   </a>
 </p>
 
-> 💡 Remove any icon you don't use. The full icon list is at [skillicons.dev](https://skillicons.dev).
+### 🧠 Skill Loading Bars
 
----
+```text
+ HTML / CSS    [██████████████████░░]  90%
+ JavaScript    [███████████████░░░░░]  75%
+ Full-Stack    [██████████████░░░░░░]  70%
+ C++           [███████████░░░░░░░░░]  55%
+ Java          [██████████░░░░░░░░░░]  50%
+```
+
+> 💡 The percentages are placeholders, so edit them to match your own level.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=3" width="100%" alt="divider" />
+
+## 🗺️ Learning Roadmap
+
+```mermaid
+flowchart LR
+    A([HTML / CSS / JS]) --> B([Full-Stack Web Dev])
+    B --> C([C++ & DSA])
+    C --> D([Java])
+    D --> E([System Design])
+    E --> F([Build & Ship Big Projects 🚀])
+    style A fill:#0d1117,stroke:#00f5ff,color:#00f5ff
+    style B fill:#0d1117,stroke:#00f5ff,color:#00f5ff
+    style C fill:#0d1117,stroke:#7b2ff7,color:#c9a8ff
+    style D fill:#0d1117,stroke:#7b2ff7,color:#c9a8ff
+    style E fill:#0d1117,stroke:#ff00c8,color:#ff8ee6
+    style F fill:#0d1117,stroke:#ff00c8,color:#ff8ee6
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=3" width="100%" alt="divider" />
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhasgupta07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats (stars, commits, PRs, issues, contributions)" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhasgupta07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhasgupta07&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhasgupta07&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhasgupta07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=abhasgupta07&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </p>
 
 ### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhasgupta07&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=bf91f3&hide_border=true&custom_title=Abhas%20Gupta%27s%20Contribution%20Graph" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhasgupta07&theme=react-dark&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ff00c8&area=true&area_color=7b2ff7&hide_border=true&custom_title=Abhas%27s%20Commit%20Graph" alt="Contribution activity graph" />
+</p>
+
+### 🌐 3D Contribution Universe
+
+<!-- Generated by the 3d-contrib.yml workflow. It appears after the first run. -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
 </p>
 
 ### 🏆 Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhasgupta07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abhasgupta07&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=3" width="100%" alt="divider" />
 
 ## 🚀 Featured Projects
 
 <!--
-  HOW TO EDIT: replace every REPO_NAME below with the exact name of your repository.
-  Example: &repo=student-marketplace
-  Pin cards update automatically with stars, forks and language.
+  HOW TO EDIT: replace every REPO_NAME_x below with the exact name of your repository.
 -->
 
 <p align="center">
   <a href="https://github.com/abhasgupta07/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhasgupta07&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhasgupta07&repo=REPO_NAME_1&theme=radical&hide_border=true" alt="Project 1" />
   </a>
   <a href="https://github.com/abhasgupta07/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhasgupta07&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhasgupta07&repo=REPO_NAME_2&theme=radical&hide_border=true" alt="Project 2" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/abhasgupta07/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhasgupta07&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" alt="Project 3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhasgupta07&repo=REPO_NAME_3&theme=radical&hide_border=true" alt="Project 3" />
   </a>
   <a href="https://github.com/abhasgupta07/REPO_NAME_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhasgupta07&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" alt="Project 4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhasgupta07&repo=REPO_NAME_4&theme=radical&hide_border=true" alt="Project 4" />
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=3" width="100%" alt="divider" />
+
+## ⚡ Live Activity Feed
+
+<!-- Auto-updated by the activity.yml workflow. Do not remove the markers. -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=3" width="100%" alt="divider" />
 
 ## 🐍 Contribution Snake
 
-<!-- Needs the GitHub Action (snake.yml) to generate the "output" branch. See setup notes. -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhasgupta07/abhasgupta07/output/github-snake-dark.svg" />
@@ -108,7 +154,15 @@
   </picture>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=3" width="100%" alt="divider" />
+
+## 💭 Dev Quote of the Moment
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=3" width="100%" alt="divider" />
 
 ## 🤝 Connect With Me
 
@@ -120,10 +174,9 @@
 </p>
 
 <p align="center">
-  <i>⭐ If you like my work, consider giving a star to my repositories!</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=ff00c8&center=true&vCenter=true&width=600&lines=%E2%AD%90+Star+my+repos+if+you+like+my+work;%3E+thanks+for+visiting.+see+you+in+the+future+%F0%9F%9A%80" alt="Footer typing" />
 </p>
 
-<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:0e75b6&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,50:7b2ff7,100:00f5ff&height=120&section=footer" alt="footer" />
 </p>
